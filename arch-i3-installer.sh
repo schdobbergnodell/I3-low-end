@@ -5,7 +5,7 @@
 set -e
 
 # --- Variablen ---
-USERNAME="soenke"   # <--- ändern!
+USERNAME="sonke"   # <--- ändern!
 HOSTNAME="archi3"
 
 # --- System Update ---
